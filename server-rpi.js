@@ -24,3 +24,5 @@ const silence = new WebStreamerServer(server);
 
 
 server.listen(8080);
+
+init_feed();
